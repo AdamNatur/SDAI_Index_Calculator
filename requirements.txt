@@ -1,0 +1,3 @@
+# Core dependencies
+# SDAI Calculator uses only Python standard library
+# No external packages required for runtime
